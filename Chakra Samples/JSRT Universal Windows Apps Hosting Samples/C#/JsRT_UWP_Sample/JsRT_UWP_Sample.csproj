@@ -96,6 +96,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Actions\LoadFileAction.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
