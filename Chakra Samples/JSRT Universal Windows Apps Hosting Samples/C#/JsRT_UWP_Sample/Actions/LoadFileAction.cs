@@ -12,7 +12,7 @@ namespace JsRT_UWP_Sample.Actions
 {
     public class LoadFileAction : IActionDescriptor
     {
-        public string ContextMenuGroupId => "navigation";
+        public string ContextMenuGroupId => "10_custom";
         public float ContextMenuOrder => 1.5f;
         public string Id => "meta-load-file-action";
         public string KeybindingContext => null;
